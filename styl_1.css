@@ -9,7 +9,7 @@ table,tr,td,th {
     padding: 4px;
     
 }
-td:hover{
+tr:hover{
     background-color:#4FB3BF ;
 }
 #góra, #dół
